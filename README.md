@@ -1,4 +1,4 @@
-# 一个简单的bilibili爬视频脚本
+# 一个简单的bilibili视频下载脚本
 
 ## 功能特性
 
@@ -10,6 +10,13 @@
 ## 用法
 
 下载到任何地方
+
+在urls.txt中添加要下载的视频网址(一行一条,别带参数)
+
+```txt
+https://www.bilibili.com/video/BV1RFmxYRE3c
+https://www.bilibili.com/video/BV1gw4m1e7Nf
+```
 
 需要下载requests库
 
